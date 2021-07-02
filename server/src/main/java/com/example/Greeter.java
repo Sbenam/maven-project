@@ -19,15 +19,15 @@ public class Greeter {
 /**
  * Description.
  *
- * @tag1
+ * @Greeter class
  * @tag2
  */
-  
+
   public Greeter() {
   /**
  * Description.
  *
- * @tag1
+ * @Greeter constructeur
  * @tag2
  */
   }
@@ -36,8 +36,8 @@ public class Greeter {
     /**
  * Description.
  *
- * @tag1
- * @tag2
+ * @greet methode
+ * @someone string
  */
     return String.format("Hello babacar, %s!", someone);
   }
