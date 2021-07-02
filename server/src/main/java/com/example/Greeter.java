@@ -9,7 +9,7 @@
  */
 package com.example;
 /**
- * Description
+ * Description.
  *
  * @tag1
  * @tag2
@@ -31,7 +31,7 @@ public class Greeter {
  * @tag2
  */
   }
-
+/** {@inheritDoc} */
   public final String greet(final String someone) {
     /**
  * Description.
