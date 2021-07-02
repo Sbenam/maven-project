@@ -1,13 +1,12 @@
 /**
-* Domain classes used to produce .....
-* <p>
-* These classes contain the ......
-* </p>
-*
-* @since 1.0
-* @author somebody
-* @version 1.0
-*/
+ * Domain classes used to produce the JSON and XML output for the RESTful services. 
+ * <p>
+ * These classes contain the JAXB annotations.
+ *
+ * @since 1.0
+ * @author jwhite
+ * @version 1.1
+ */
 package com.example;
 /**
  * Description
